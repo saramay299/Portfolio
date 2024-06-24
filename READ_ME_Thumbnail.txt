@@ -1,0 +1,1 @@
+This script was built to help streamline thumbnail creation on the team I started on after graduating with my bachelors. We had a few templates we used and it adds text to the template which cut down the time for creating from 15 per thumbnail to 10 seconds. 
