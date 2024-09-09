@@ -1,0 +1,1 @@
+the census program allows the user to select a state and a variable from a limited list of census options. It creates a map of the chosen state with the selected variable mapped at the county level
